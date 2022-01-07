@@ -1,0 +1,113 @@
+section{
+  display: flex;
+}
+.half-width{
+  width: 50%;
+  margin-left: 10%;
+}
+.half-width img{
+ width: 50%;
+}
+.notification{
+  width: 30%;
+  margin-left: 3%;
+  margin-right: 3%;
+  border: 2px;
+  padding: 3px 8px;
+  border-radius: 2px;
+  box-shadow: 5px 8px 10px gray;
+}
+.notification img{
+  width: 50%;
+  padding: 50px 30px 40px 35px;
+}
+.notification text{
+  width: 20%;
+  
+}
+.half-weith img{
+  width: 50%;
+}
+.link{
+  text-decoration: none;
+  background-color: springgreen;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.arun{
+  font-size: 50px;
+}
+.lalu{
+  text-align: center;
+}
+.oil{
+  width: 50%;
+  margin: 10%;
+  border: 2px;
+}
+.oil img{
+  width: 100%;
+}
+.oil text{
+  width: 50%;
+}
+.rabbi{
+  width: 50%;
+  margin: 10%;
+  border: 2px;
+}
+.rabbi img{
+  width: 100%;
+}
+.rabbi text{
+  width: 50%;
+}
+.corona{
+  width: 50%;
+  margin: 10%;
+  border: 2px;
+}
+.corona img{
+  width: 100%;
+}
+.corona text{
+  width: 50%;
+}
+.orance{
+  color: red;
+}
+h1{
+  font-size: 38px;
+}
+body{
+  font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-size: 15px;
+}
+.red{
+  color: green;
+}
+.polo{
+  color: orangered;
+}
+.katar{
+  color: aqua;
+}
+.ma{
+  color: orangered;
+}
+.farhan{
+  color: chartreuse;
+}
+.back{
+  background-color: indianred;
+}
+.nora{
+  border-left: 4px solid olivedrab
+}
+.arunita{
+  background-image: url(shapes/shape-1.png);
+
+}
+.arunita{; 
+}
